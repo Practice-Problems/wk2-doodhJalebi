@@ -1,6 +1,6 @@
 import math
 
-print("Input string:",end=' ')
+#print("Input string:",end=' ')
 string = input().replace(" ","")
 strlen = len(string)
 #print("DEBUG    String length:",strlen)
